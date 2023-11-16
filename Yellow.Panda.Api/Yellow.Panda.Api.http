@@ -1,0 +1,6 @@
+@Yellow.Panda.Api_HostAddress = http://localhost:5221
+
+GET {{Yellow.Panda.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
